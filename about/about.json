@@ -29,88 +29,122 @@
       }
     },
     "avatar": "img/png/stardustmegAvatar.png",
-    "labels": {
-      "en": [
-        {
-          "name": "chore 🧹",
-          "color": {
-            "true": {
-              "color": "#1d474c"
-            },
-            "false": {
-              "color": "#C6EDFB"
-            }
+    "labels": [
+      {
+        "name": "feature 🚀",
+        "color": {
+          "true": {
+            "color": "#164b35"
           },
-          "backgroundColor": {
-            "true": {
-              "color": "#60c6d2"
-            },
-            "false": {
-              "color": "#206A83"
-            }
+          "false": {
+            "color": "#BAF3DB"
           }
         },
-        {
-          "name": "docs 📝",
-          "color": {
-            "true": {
-              "color": "#37471f"
-            },
-            "false": {
-              "color": "#D3F1A7"
-            }
+        "backgroundColor": {
+          "true": {
+            "color": "#4bce97"
           },
-          "backgroundColor": {
-            "true": {
-              "color": "#D3F1A7"
-            },
-            "false": {
-              "color": "#37471F"
-            }
+          "false": {
+            "color": "#216E4E"
           }
         }
-      ],
-      "ru": [
-        {
-          "name": "конфиг 🧹",
-          "color": {
-            "true": {
-              "color": "#1d474c"
-            },
-            "false": {
-              "color": "#C6EDFB"
-            }
+      },
+      {
+        "name": "chore 🧹",
+        "color": {
+          "true": {
+            "color": "#1d474c"
           },
-          "backgroundColor": {
-            "true": {
-              "color": "#60c6d2"
-            },
-            "false": {
-              "color": "#206A83"
-            }
+          "false": {
+            "color": "#C6EDFB"
           }
         },
-        {
-          "name": "документация 📝",
-          "color": {
-            "true": {
-              "color": "#37471f"
-            },
-            "false": {
-              "color": "#D3F1A7"
-            }
+        "backgroundColor": {
+          "true": {
+            "color": "#60c6d2"
           },
-          "backgroundColor": {
-            "true": {
-              "color": "#D3F1A7"
-            },
-            "false": {
-              "color": "#37471F"
-            }
+          "false": {
+            "color": "#206A83"
           }
         }
-      ]
-    },
+      },
+      {
+        "name": "docs 📝",
+        "color": {
+          "true": {
+            "color": "#37471f"
+          },
+          "false": {
+            "color": "#D3F1A7"
+          }
+        },
+        "backgroundColor": {
+          "true": {
+            "color": "#D3F1A7"
+          },
+          "false": {
+            "color": "#37471F"
+          }
+        }
+      },
+      {
+        "name": "CI/CD 👷🏼",
+        "color": {
+          "true": {
+            "color": "#352c63"
+          },
+          "false": {
+            "color": "#DFD8FD"
+          }
+        },
+        "backgroundColor": {
+          "true": {
+            "color": "#9f8fef"
+          },
+          "false": {
+            "color": "#5E4DB2"
+          }
+        }
+      },
+      {
+        "name": "tests 🧪",
+        "color": {
+          "true": {
+            "color": "#352c63"
+          },
+          "false": {
+            "color": "#CCE0FF"
+          }
+        },
+        "backgroundColor": {
+          "true": {
+            "color": "#579dff"
+          },
+          "false": {
+            "color": "#0055CC"
+          }
+        }
+      },
+      {
+        "name": "cross-check 🌟",
+        "color": {
+          "true": {
+            "color": "#1d474c"
+          },
+          "false": {
+            "color": "#C6EDFB"
+          }
+        },
+        "backgroundColor": {
+          "true": {
+            "color": "#c1f0f5"
+          },
+          "false": {
+            "color": "#164555"
+          }
+        }
+      }
+    ],
     "description": {
       "en": {
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente reiciendis ducimus alias, accusantium consectetur fugit odit. Veritatis explicabo eaque enim unde dolorum veniam ipsam atque, at, mollitia, sit quas libero? Recusandae aperiam molestiae ab ducimus, odio praesentium, harum vitae deleniti excepturi voluptate porro maiores aut quam voluptatum facilis doloremque fuga. Dignissimos reiciendis ab obcaecati, aliquam mollitia deleniti pariatur ipsum placeat. Consequuntur vero eum molestiae, consequatur maiores, facere, obcaecati recusandae aliquid et ad beatae. Mollitia consequuntur eaque illum rerum aut repudiandae, excepturi nobis nulla, adipisci hic debitis vitae quis vero libero. Quaerat optio, laboriosam ab maiores sint, dolorum asperiores perspiciatis nobis, aliquam cumque officiis at tempore enim quis cum illum minus eligendi provident saepe sapiente eum beatae consequuntur repellendus! Voluptatem, sint. Quasi quis ipsam nihil vitae assumenda autem culpa, repellendus delectus nesciunt laborum repellat aliquid itaque vero iste, magnam sit aut qui alias quo beatae expedita dolorem aspernatur. Commodi, a ipsam."
@@ -159,88 +193,84 @@
     },
 
     "avatar": "img/png/kleostroAvatar.png",
-    "labels": {
-      "en": [
-        {
-          "name": "feature 🚀",
-          "color": {
-            "true": {
-              "color": "#164b35"
-            },
-            "false": {
-              "color": "#BAF3DB"
-            }
+    "labels": [
+      {
+        "name": "feature 🚀",
+        "color": {
+          "true": {
+            "color": "#164b35"
           },
-          "backgroundColor": {
-            "true": {
-              "color": "#4bce97"
-            },
-            "false": {
-              "color": "#216E4E"
-            }
+          "false": {
+            "color": "#BAF3DB"
           }
         },
-        {
-          "name": "styles 🎨",
-          "color": {
-            "true": {
-              "color": "#ffffff"
-            },
-            "false": {
-              "color": "#1D2125"
-            }
+        "backgroundColor": {
+          "true": {
+            "color": "#4bce97"
           },
-          "backgroundColor": {
-            "true": {
-              "color": "#ae4787"
-            },
-            "false": {
-              "color": "#E774BB"
-            }
+          "false": {
+            "color": "#216E4E"
           }
         }
-      ],
-      "ru": [
-        {
-          "name": "фича 🚀",
-          "color": {
-            "true": {
-              "color": "#164b35"
-            },
-            "false": {
-              "color": "#BAF3DB"
-            }
+      },
+      {
+        "name": "styles 🎨",
+        "color": {
+          "true": {
+            "color": "#ffffff"
           },
-          "backgroundColor": {
-            "true": {
-              "color": "#4bce97"
-            },
-            "false": {
-              "color": "#216E4E"
-            }
+          "false": {
+            "color": "#1D2125"
           }
         },
-        {
-          "name": "стили 🎨",
-          "color": {
-            "true": {
-              "color": "#ffffff"
-            },
-            "false": {
-              "color": "#1D2125"
-            }
+        "backgroundColor": {
+          "true": {
+            "color": "#ae4787"
           },
-          "backgroundColor": {
-            "true": {
-              "color": "#ae4787"
-            },
-            "false": {
-              "color": "#E774BB"
-            }
+          "false": {
+            "color": "#E774BB"
           }
         }
-      ]
-    },
+      },
+      {
+        "name": "tests 🧪",
+        "color": {
+          "true": {
+            "color": "#352c63"
+          },
+          "false": {
+            "color": "#CCE0FF"
+          }
+        },
+        "backgroundColor": {
+          "true": {
+            "color": "#579dff"
+          },
+          "false": {
+            "color": "#0055CC"
+          }
+        }
+      },
+      {
+        "name": "refactor 🔧",
+        "color": {
+          "true": {
+            "color": "#09326C"
+          },
+          "false": {
+            "color": "#CCE0FF"
+          }
+        },
+        "backgroundColor": {
+          "true": {
+            "color": "#cce0ff"
+          },
+          "false": {
+            "color": "#09326C"
+          }
+        }
+      }
+    ],
     "description": {
       "en": {
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente reiciendis ducimus alias, accusantium consectetur fugit odit. Veritatis explicabo eaque enim unde dolorum veniam ipsam atque, at, mollitia, sit quas libero? Recusandae aperiam molestiae ab ducimus, odio praesentium, harum vitae deleniti excepturi voluptate porro maiores aut quam voluptatum facilis doloremque fuga. Dignissimos reiciendis ab obcaecati, aliquam mollitia deleniti pariatur ipsum placeat. Consequuntur vero eum molestiae, consequatur maiores, facere, obcaecati recusandae aliquid et ad beatae. Mollitia consequuntur eaque illum rerum aut repudiandae, excepturi nobis nulla, adipisci hic debitis vitae quis vero libero. Quaerat optio, laboriosam ab maiores sint, dolorum asperiores perspiciatis nobis, aliquam cumque officiis at tempore enim quis cum illum minus eligendi provident saepe sapiente eum beatae consequuntur repellendus! Voluptatem, sint. Quasi quis ipsam nihil vitae assumenda autem culpa, repellendus delectus nesciunt laborum repellat aliquid itaque vero iste, magnam sit aut qui alias quo beatae expedita dolorem aspernatur. Commodi, a ipsam."
@@ -288,50 +318,84 @@
       }
     },
     "avatar": "img/png/yulikKAvatar.png",
-    "labels": {
-      "en": [
-        {
-          "name": "API 🚀",
-          "color": {
-            "true": {
-              "color": "#5f3811"
-            },
-            "false": {
-              "color": "#FEDEC8"
-            }
+    "labels": [
+      {
+        "name": "feature 🚀",
+        "color": {
+          "true": {
+            "color": "#164b35"
           },
-          "backgroundColor": {
-            "true": {
-              "color": "#faa53d"
-            },
-            "false": {
-              "color": "#A54800"
-            }
+          "false": {
+            "color": "#BAF3DB"
+          }
+        },
+        "backgroundColor": {
+          "true": {
+            "color": "#4bce97"
+          },
+          "false": {
+            "color": "#216E4E"
           }
         }
-      ],
-      "ru": [
-        {
-          "name": "API 🚀",
-          "color": {
-            "true": {
-              "color": "#5f3811"
-            },
-            "false": {
-              "color": "#FEDEC8"
-            }
+      },
+      {
+        "name": "API 🚀",
+        "color": {
+          "true": {
+            "color": "#5f3811"
           },
-          "backgroundColor": {
-            "true": {
-              "color": "#faa53d"
-            },
-            "false": {
-              "color": "#A54800"
-            }
+          "false": {
+            "color": "#FEDEC8"
+          }
+        },
+        "backgroundColor": {
+          "true": {
+            "color": "#faa53d"
+          },
+          "false": {
+            "color": "#A54800"
           }
         }
-      ]
-    },
+      },
+      {
+        "name": "tests 🧪",
+        "color": {
+          "true": {
+            "color": "#352c63"
+          },
+          "false": {
+            "color": "#CCE0FF"
+          }
+        },
+        "backgroundColor": {
+          "true": {
+            "color": "#579dff"
+          },
+          "false": {
+            "color": "#0055CC"
+          }
+        }
+      },
+      {
+        "name": "database 📂",
+        "color": {
+          "true": {
+            "color": "#ffffff"
+          },
+          "false": {
+            "color": "#1D2125"
+          }
+        },
+        "backgroundColor": {
+          "true": {
+            "color": "#946f00"
+          },
+          "false": {
+            "color": "#E2B203"
+          }
+        }
+      }
+    ],
     "description": {
       "en": {
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente reiciendis ducimus alias, accusantium consectetur fugit odit. Veritatis explicabo eaque enim unde dolorum veniam ipsam atque, at, mollitia, sit quas libero? Recusandae aperiam molestiae ab ducimus, odio praesentium, harum vitae deleniti excepturi voluptate porro maiores aut quam voluptatum facilis doloremque fuga. Dignissimos reiciendis ab obcaecati, aliquam mollitia deleniti pariatur ipsum placeat. Consequuntur vero eum molestiae, consequatur maiores, facere, obcaecati recusandae aliquid et ad beatae. Mollitia consequuntur eaque illum rerum aut repudiandae, excepturi nobis nulla, adipisci hic debitis vitae quis vero libero. Quaerat optio, laboriosam ab maiores sint, dolorum asperiores perspiciatis nobis, aliquam cumque officiis at tempore enim quis cum illum minus eligendi provident saepe sapiente eum beatae consequuntur repellendus! Voluptatem, sint. Quasi quis ipsam nihil vitae assumenda autem culpa, repellendus delectus nesciunt laborum repellat aliquid itaque vero iste, magnam sit aut qui alias quo beatae expedita dolorem aspernatur. Commodi, a ipsam."
