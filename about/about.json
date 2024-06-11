@@ -33,25 +33,81 @@
       "en": [
         {
           "name": "chore 🧹",
-          "color": "#fff",
-          "backgroundColor": "#206A83"
+          "color": {
+            "true": {
+              "color": "#1d474c"
+            },
+            "false": {
+              "color": "#206A83"
+            }
+          },
+          "backgroundColor": {
+            "true": {
+              "color": "#60c6d2"
+            },
+            "false": {
+              "color": "#206A83"
+            }
+          }
         },
         {
           "name": "docs 📝",
-          "color": "#D3F1A7",
-          "backgroundColor": "#37471F"
+          "color": {
+            "true": {
+              "color": "#37471f"
+            },
+            "false": {
+              "color": "#D3F1A7"
+            }
+          },
+          "backgroundColor": {
+            "true": {
+              "color": "#D3F1A7"
+            },
+            "false": {
+              "color": "#37471F"
+            }
+          }
         }
       ],
       "ru": [
         {
           "name": "конфиг 🧹",
-          "color": "#fff",
-          "backgroundColor": "#206A83"
+          "color": {
+            "true": {
+              "color": "#1d474c"
+            },
+            "false": {
+              "color": "#206A83"
+            }
+          },
+          "backgroundColor": {
+            "true": {
+              "color": "#60c6d2"
+            },
+            "false": {
+              "color": "#206A83"
+            }
+          }
         },
         {
           "name": "документация 📝",
-          "color": "#D3F1A7",
-          "backgroundColor": "#37471F"
+          "color": {
+            "true": {
+              "color": "#37471f"
+            },
+            "false": {
+              "color": "#D3F1A7"
+            }
+          },
+          "backgroundColor": {
+            "true": {
+              "color": "#D3F1A7"
+            },
+            "false": {
+              "color": "#37471F"
+            }
+          }
         }
       ]
     },
@@ -107,25 +163,81 @@
       "en": [
         {
           "name": "feature 🚀",
-          "color": "#BAF3DB",
-          "backgroundColor": "#216E4E"
+          "color": {
+            "true": {
+              "color": "#164b35"
+            },
+            "false": {
+              "color": "#BAF3DB"
+            }
+          },
+          "backgroundColor": {
+            "true": {
+              "color": "#4bce97"
+            },
+            "false": {
+              "color": "#216E4E"
+            }
+          }
         },
         {
           "name": "styles 🎨",
-          "color": "#000",
-          "backgroundColor": "#943D73"
+          "color": {
+            "true": {
+              "color": "#ffffff"
+            },
+            "false": {
+              "color": "#1D2125"
+            }
+          },
+          "backgroundColor": {
+            "true": {
+              "color": "#ae4787"
+            },
+            "false": {
+              "color": "#E774BB"
+            }
+          }
         }
       ],
       "ru": [
         {
           "name": "фича 🚀",
-          "color": "#BAF3DB",
-          "backgroundColor": "#216E4E"
+          "color": {
+            "true": {
+              "color": "#164b35"
+            },
+            "false": {
+              "color": "#BAF3DB"
+            }
+          },
+          "backgroundColor": {
+            "true": {
+              "color": "#4bce97"
+            },
+            "false": {
+              "color": "#216E4E"
+            }
+          }
         },
         {
           "name": "стили 🎨",
-          "color": "#000",
-          "backgroundColor": "#943D73"
+          "color": {
+            "true": {
+              "color": "#ffffff"
+            },
+            "false": {
+              "color": "#1D2125"
+            }
+          },
+          "backgroundColor": {
+            "true": {
+              "color": "#ae4787"
+            },
+            "false": {
+              "color": "#E774BB"
+            }
+          }
         }
       ]
     },
@@ -180,15 +292,43 @@
       "en": [
         {
           "name": "API 🚀",
-          "color": "#FEDEC8",
-          "backgroundColor": "#A54800"
+          "color": {
+            "true": {
+              "color": "#5f3811"
+            },
+            "false": {
+              "color": "#FEDEC8"
+            }
+          },
+          "backgroundColor": {
+            "true": {
+              "color": "#faa53d"
+            },
+            "false": {
+              "color": "#A54800"
+            }
+          }
         }
       ],
       "ru": [
         {
           "name": "API 🚀",
-          "color": "#FEDEC8",
-          "backgroundColor": "#A54800"
+          "color": {
+            "true": {
+              "color": "#5f3811"
+            },
+            "false": {
+              "color": "#FEDEC8"
+            }
+          },
+          "backgroundColor": {
+            "true": {
+              "color": "#faa53d"
+            },
+            "false": {
+              "color": "#A54800"
+            }
+          }
         }
       ]
     },
