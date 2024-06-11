@@ -28,7 +28,7 @@
         "color": "#943D73"
       }
     },
-    "avatar": "img/png/stardustmegAvatar.png",
+    "avatar": "/img/png/stardustmegAvatar.png",
     "labels": [
       {
         "name": "feature 🚀",
@@ -192,7 +192,7 @@
       }
     },
 
-    "avatar": "img/png/kleostroAvatar.png",
+    "avatar": "/img/png/kleostroAvatar.png",
     "labels": [
       {
         "name": "feature 🚀",
@@ -317,7 +317,7 @@
         "color": "#A54800"
       }
     },
-    "avatar": "img/png/yulikKAvatar.png",
+    "avatar": "/img/png/yulikKAvatar.png",
     "labels": [
       {
         "name": "feature 🚀",
