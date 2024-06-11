@@ -75,10 +75,10 @@
           "name": "конфиг 🧹",
           "color": {
             "true": {
-              "color": "#1d474c"
+              "color": "#C6EDFB"
             },
             "false": {
-              "color": "#206A83"
+              "color": "#1d474c"
             }
           },
           "backgroundColor": {
