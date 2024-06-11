@@ -69,25 +69,6 @@
         }
       },
       {
-        "name": "docs 📝",
-        "color": {
-          "true": {
-            "color": "#37471f"
-          },
-          "false": {
-            "color": "#D3F1A7"
-          }
-        },
-        "backgroundColor": {
-          "true": {
-            "color": "#D3F1A7"
-          },
-          "false": {
-            "color": "#37471F"
-          }
-        }
-      },
-      {
         "name": "CI/CD 👷🏼",
         "color": {
           "true": {
@@ -248,6 +229,25 @@
           },
           "false": {
             "color": "#0055CC"
+          }
+        }
+      },
+      {
+        "name": "architecture 🏛️",
+        "color": {
+          "true": {
+            "color": "#37471f"
+          },
+          "false": {
+            "color": "#D3F1A7"
+          }
+        },
+        "backgroundColor": {
+          "true": {
+            "color": "#D3F1A7"
+          },
+          "false": {
+            "color": "#37471F"
           }
         }
       },
