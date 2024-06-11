@@ -35,10 +35,10 @@
           "name": "chore 🧹",
           "color": {
             "true": {
-              "color": "#C6EDFB"
+              "color": "#1d474c"
             },
             "false": {
-              "color": "#1d474c"
+              "color": "#C6EDFB"
             }
           },
           "backgroundColor": {
@@ -75,10 +75,10 @@
           "name": "конфиг 🧹",
           "color": {
             "true": {
-              "color": "#C6EDFB"
+              "color": "#1d474c"
             },
             "false": {
-              "color": "#1d474c"
+              "color": "#C6EDFB"
             }
           },
           "backgroundColor": {
