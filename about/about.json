@@ -20,7 +20,7 @@
         "text": "Руководитель команды"
       }
     },
-    "coverColor": "#943D73",
+    "coverColor": "#e774bb",
     "avatar": "img/png/stardustmegAvatar.png",
     "labels": {
       "en": [
@@ -86,7 +86,7 @@
         "text": "Ответственный за кнопочки"
       }
     },
-    "coverColor": "#216E4E",
+    "coverColor": "#4bce97",
     "avatar": "img/png/kleostroAvatar.png",
     "labels": {
       "en": [
@@ -152,7 +152,7 @@
         "text": "Королева API"
       }
     },
-    "coverColor": "#A54800",
+    "coverColor": "#faa53d",
     "avatar": "img/png/yulikKAvatar.png",
     "labels": {
       "en": [
