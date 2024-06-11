@@ -1,0 +1,160 @@
+[
+  {
+    "user": "stardustmeg",
+    "position": {
+      "en": {
+        "text": "Team lead"
+      },
+      "ru": {
+        "text": "Руководитель команды"
+      }
+    },
+    "coverColor": "#943D73",
+    "avatar": "img/png/stardustmegAvatar.png",
+    "labels": {
+      "en": [
+        {
+          "name": "chore 🧹",
+          "color": "#fff",
+          "backgroundColor": "#206A83"
+        },
+        {
+          "name": "docs 📝",
+          "color": "#D3F1A7",
+          "backgroundColor": "#37471F"
+        }
+      ],
+      "ru": [
+        {
+          "name": "конфиг 🧹",
+          "color": "#fff",
+          "backgroundColor": "#206A83"
+        },
+        {
+          "name": "документация 📝",
+          "color": "#D3F1A7",
+          "backgroundColor": "#37471F"
+        }
+      ]
+    },
+    "github": "https://github.com/stardustmeg",
+    "description": {
+      "en": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente reiciendis ducimus alias, accusantium consectetur fugit odit. Veritatis explicabo eaque enim unde dolorum veniam ipsam atque, at, mollitia, sit quas libero? Recusandae aperiam molestiae ab ducimus, odio praesentium, harum vitae deleniti excepturi voluptate porro maiores aut quam voluptatum facilis doloremque fuga. Dignissimos reiciendis ab obcaecati, aliquam mollitia deleniti pariatur ipsum placeat. Consequuntur vero eum molestiae, consequatur maiores, facere, obcaecati recusandae aliquid et ad beatae. Mollitia consequuntur eaque illum rerum aut repudiandae, excepturi nobis nulla, adipisci hic debitis vitae quis vero libero. Quaerat optio, laboriosam ab maiores sint, dolorum asperiores perspiciatis nobis, aliquam cumque officiis at tempore enim quis cum illum minus eligendi provident saepe sapiente eum beatae consequuntur repellendus! Voluptatem, sint. Quasi quis ipsam nihil vitae assumenda autem culpa, repellendus delectus nesciunt laborum repellat aliquid itaque vero iste, magnam sit aut qui alias quo beatae expedita dolorem aspernatur. Commodi, a ipsam."
+      },
+      "ru": {
+        "text": "Какой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текст"
+      }
+    },
+    "shortDescription": {
+      "en": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      "ru": {
+        "text": "Какой-то рыбный текст."
+      }
+    }
+  },
+  {
+    "user": "kleostro",
+    "position": {
+      "en": {
+        "text": "Responsible for buttons"
+      },
+      "ru": {
+        "text": "Ответственный за кнопочки"
+      }
+    },
+    "coverColor": "#216E4E",
+    "avatar": "img/png/kleostroAvatar.png",
+    "labels": {
+      "en": [
+        {
+          "name": "feature 🚀",
+          "color": "#BAF3DB",
+          "backgroundColor": "#216E4E"
+        },
+        {
+          "name": "styles 🎨",
+          "color": "#000",
+          "backgroundColor": "#943D73"
+        }
+      ],
+      "ru": [
+        {
+          "name": "фича 🚀",
+          "color": "#BAF3DB",
+          "backgroundColor": "#216E4E"
+        },
+        {
+          "name": "стили 🎨",
+          "color": "#000",
+          "backgroundColor": "#943D73"
+        }
+      ]
+    },
+    "github": "https://github.com/kleostro",
+    "description": {
+      "en": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente reiciendis ducimus alias, accusantium consectetur fugit odit. Veritatis explicabo eaque enim unde dolorum veniam ipsam atque, at, mollitia, sit quas libero? Recusandae aperiam molestiae ab ducimus, odio praesentium, harum vitae deleniti excepturi voluptate porro maiores aut quam voluptatum facilis doloremque fuga. Dignissimos reiciendis ab obcaecati, aliquam mollitia deleniti pariatur ipsum placeat. Consequuntur vero eum molestiae, consequatur maiores, facere, obcaecati recusandae aliquid et ad beatae. Mollitia consequuntur eaque illum rerum aut repudiandae, excepturi nobis nulla, adipisci hic debitis vitae quis vero libero. Quaerat optio, laboriosam ab maiores sint, dolorum asperiores perspiciatis nobis, aliquam cumque officiis at tempore enim quis cum illum minus eligendi provident saepe sapiente eum beatae consequuntur repellendus! Voluptatem, sint. Quasi quis ipsam nihil vitae assumenda autem culpa, repellendus delectus nesciunt laborum repellat aliquid itaque vero iste, magnam sit aut qui alias quo beatae expedita dolorem aspernatur. Commodi, a ipsam."
+      },
+      "ru": {
+        "text": "Какой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текст"
+      }
+    },
+    "shortDescription": {
+      "en": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      "ru": {
+        "text": "Какой-то рыбный текст."
+      }
+    }
+  },
+  {
+    "user": "yulikK",
+    "position": {
+      "en": {
+        "text": "API queen"
+      },
+      "ru": {
+        "text": "Королева API"
+      }
+    },
+    "coverColor": "#A54800",
+    "avatar": "img/png/yulikKAvatar.png",
+    "labels": {
+      "en": [
+        {
+          "name": "API 🚀",
+          "color": "#FEDEC8",
+          "backgroundColor": "#A54800"
+        }
+      ],
+      "ru": [
+        {
+          "name": "API 🚀",
+          "color": "#FEDEC8",
+          "backgroundColor": "#A54800"
+        }
+      ]
+    },
+    "github": "https://github.com/yulikK",
+    "description": {
+      "en": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente reiciendis ducimus alias, accusantium consectetur fugit odit. Veritatis explicabo eaque enim unde dolorum veniam ipsam atque, at, mollitia, sit quas libero? Recusandae aperiam molestiae ab ducimus, odio praesentium, harum vitae deleniti excepturi voluptate porro maiores aut quam voluptatum facilis doloremque fuga. Dignissimos reiciendis ab obcaecati, aliquam mollitia deleniti pariatur ipsum placeat. Consequuntur vero eum molestiae, consequatur maiores, facere, obcaecati recusandae aliquid et ad beatae. Mollitia consequuntur eaque illum rerum aut repudiandae, excepturi nobis nulla, adipisci hic debitis vitae quis vero libero. Quaerat optio, laboriosam ab maiores sint, dolorum asperiores perspiciatis nobis, aliquam cumque officiis at tempore enim quis cum illum minus eligendi provident saepe sapiente eum beatae consequuntur repellendus! Voluptatem, sint. Quasi quis ipsam nihil vitae assumenda autem culpa, repellendus delectus nesciunt laborum repellat aliquid itaque vero iste, magnam sit aut qui alias quo beatae expedita dolorem aspernatur. Commodi, a ipsam."
+      },
+      "ru": {
+        "text": "Какой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текстКакой-то рыбный текст"
+      }
+    },
+    "shortDescription": {
+      "en": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      "ru": {
+        "text": "Какой-то рыбный текст."
+      }
+    }
+  }
+]
