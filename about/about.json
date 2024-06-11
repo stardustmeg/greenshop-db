@@ -21,8 +21,12 @@
       }
     },
     "coverColor": {
-      "true": "#e774bb",
-      "false": "#943D73"
+      "true": {
+        "color": "#e774bb"
+      },
+      "false": {
+        "color": "#943D73"
+      }
     },
     "avatar": "img/png/stardustmegAvatar.png",
     "labels": {
@@ -90,9 +94,14 @@
       }
     },
     "coverColor": {
-      "true": "#4bce97",
-      "false": "#216E4E"
+      "true": {
+        "color": "#4bce97"
+      },
+      "false": {
+        "color": "#216E4E"
+      }
     },
+
     "avatar": "img/png/kleostroAvatar.png",
     "labels": {
       "en": [
@@ -159,8 +168,12 @@
       }
     },
     "coverColor": {
-      "true": "#faa53d",
-      "false": "#A54800"
+      "true": {
+        "color": "#faa53d"
+      },
+      "false": {
+        "color": "#A54800"
+      }
     },
     "avatar": "img/png/yulikKAvatar.png",
     "labels": {
