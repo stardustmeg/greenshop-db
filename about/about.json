@@ -1,6 +1,17 @@
 [
   {
-    "user": "stardustmeg",
+    "github": {
+      "name": "stardustmeg",
+      "link": "https://github.com/stardustmeg"
+    },
+    "userName": {
+      "en": {
+        "text": "Margarita Golubeva"
+      },
+      "ru": {
+        "text": "Маргарита Голубева"
+      }
+    },
     "position": {
       "en": {
         "text": "Team lead"
@@ -37,7 +48,6 @@
         }
       ]
     },
-    "github": "https://github.com/stardustmeg",
     "description": {
       "en": {
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente reiciendis ducimus alias, accusantium consectetur fugit odit. Veritatis explicabo eaque enim unde dolorum veniam ipsam atque, at, mollitia, sit quas libero? Recusandae aperiam molestiae ab ducimus, odio praesentium, harum vitae deleniti excepturi voluptate porro maiores aut quam voluptatum facilis doloremque fuga. Dignissimos reiciendis ab obcaecati, aliquam mollitia deleniti pariatur ipsum placeat. Consequuntur vero eum molestiae, consequatur maiores, facere, obcaecati recusandae aliquid et ad beatae. Mollitia consequuntur eaque illum rerum aut repudiandae, excepturi nobis nulla, adipisci hic debitis vitae quis vero libero. Quaerat optio, laboriosam ab maiores sint, dolorum asperiores perspiciatis nobis, aliquam cumque officiis at tempore enim quis cum illum minus eligendi provident saepe sapiente eum beatae consequuntur repellendus! Voluptatem, sint. Quasi quis ipsam nihil vitae assumenda autem culpa, repellendus delectus nesciunt laborum repellat aliquid itaque vero iste, magnam sit aut qui alias quo beatae expedita dolorem aspernatur. Commodi, a ipsam."
@@ -56,7 +66,18 @@
     }
   },
   {
-    "user": "kleostro",
+    "github": {
+      "name": "Kleostro",
+      "link": "https://github.com/kleostro"
+    },
+    "userName": {
+      "en": {
+        "text": "Max Zabaluev"
+      },
+      "ru": {
+        "text": "Макс Забалуев"
+      }
+    },
     "position": {
       "en": {
         "text": "Responsible for buttons"
@@ -93,7 +114,6 @@
         }
       ]
     },
-    "github": "https://github.com/kleostro",
     "description": {
       "en": {
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente reiciendis ducimus alias, accusantium consectetur fugit odit. Veritatis explicabo eaque enim unde dolorum veniam ipsam atque, at, mollitia, sit quas libero? Recusandae aperiam molestiae ab ducimus, odio praesentium, harum vitae deleniti excepturi voluptate porro maiores aut quam voluptatum facilis doloremque fuga. Dignissimos reiciendis ab obcaecati, aliquam mollitia deleniti pariatur ipsum placeat. Consequuntur vero eum molestiae, consequatur maiores, facere, obcaecati recusandae aliquid et ad beatae. Mollitia consequuntur eaque illum rerum aut repudiandae, excepturi nobis nulla, adipisci hic debitis vitae quis vero libero. Quaerat optio, laboriosam ab maiores sint, dolorum asperiores perspiciatis nobis, aliquam cumque officiis at tempore enim quis cum illum minus eligendi provident saepe sapiente eum beatae consequuntur repellendus! Voluptatem, sint. Quasi quis ipsam nihil vitae assumenda autem culpa, repellendus delectus nesciunt laborum repellat aliquid itaque vero iste, magnam sit aut qui alias quo beatae expedita dolorem aspernatur. Commodi, a ipsam."
@@ -112,7 +132,18 @@
     }
   },
   {
-    "user": "yulikK",
+    "github": {
+      "name": "YulikK",
+      "link": "https://github.com/yulikK"
+    },
+    "userName": {
+      "en": {
+        "text": "Yuliya Kursevich"
+      },
+      "ru": {
+        "text": "Юлия Курсевич"
+      }
+    },
     "position": {
       "en": {
         "text": "API queen"
@@ -139,7 +170,6 @@
         }
       ]
     },
-    "github": "https://github.com/yulikK",
     "description": {
       "en": {
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente reiciendis ducimus alias, accusantium consectetur fugit odit. Veritatis explicabo eaque enim unde dolorum veniam ipsam atque, at, mollitia, sit quas libero? Recusandae aperiam molestiae ab ducimus, odio praesentium, harum vitae deleniti excepturi voluptate porro maiores aut quam voluptatum facilis doloremque fuga. Dignissimos reiciendis ab obcaecati, aliquam mollitia deleniti pariatur ipsum placeat. Consequuntur vero eum molestiae, consequatur maiores, facere, obcaecati recusandae aliquid et ad beatae. Mollitia consequuntur eaque illum rerum aut repudiandae, excepturi nobis nulla, adipisci hic debitis vitae quis vero libero. Quaerat optio, laboriosam ab maiores sint, dolorum asperiores perspiciatis nobis, aliquam cumque officiis at tempore enim quis cum illum minus eligendi provident saepe sapiente eum beatae consequuntur repellendus! Voluptatem, sint. Quasi quis ipsam nihil vitae assumenda autem culpa, repellendus delectus nesciunt laborum repellat aliquid itaque vero iste, magnam sit aut qui alias quo beatae expedita dolorem aspernatur. Commodi, a ipsam."
