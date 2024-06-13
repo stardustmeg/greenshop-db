@@ -246,42 +246,84 @@
     "checklist": {
       "en": [
         {
-          "text": "Creating and setting up the project on the commercetools platform"
+          "text": "Creating routing and navigation in the application"
         },
         {
-          "text": "Creating the database and importing products and categories"
+          "text": "Creation and implementation of login page functionality"
         },
         {
-          "text": "Implementing API interactions with the database"
+          "text": "Creation and implementation of the registration page functionality"
         },
         {
-          "text": "Designing banner mockups with promo codes"
+          "text": "Creation and implementation of catalogue page functionality"
         },
         {
-          "text": "Creating the blog page and a mini-widget with articles"
+          "text": "Creation and implementation of detailed product page functionality"
         },
         {
-          "text": "Developing the cart page with functionality for interacting with products and promo codes"
+          "text": "Creating and implementing the functionality of the wishlist page"
+        },
+        {
+          "text": "Creating a cooperation page"
+        },
+        {
+          "text": "Creating an About Us page"
+        },
+        {
+          "text": "Designing the basic design of the site"
+        },
+        {
+          "text": "Implementation of FSD architecture into the project"
+        },
+        {
+          "text": "Implementation of MVC architectural pattern into the project"
+        },
+        {
+          "text": "Participation in code refactoring"
+        },
+        {
+          "text": "Participation in test writing"
         }
       ],
       "ru": [
         {
-          "text": "Создание и настройка проекта на платформе commercetools"
+          "text": "Создание маршрутизации и навигации в приложении"
         },
         {
-          "text": "Создание базы данных и импорт продуктов и категорий"
+          "text": "Создание и реализация функционала страницы логина"
         },
         {
-          "text": "Реализация взаимодействия API с базой данных"
+          "text": "Создание и реализация функционала страницы регистрации"
         },
         {
-          "text": "Разработка макетов баннеров с промокодами"
+          "text": "Создание и реализация функционала страницы каталога"
         },
         {
-          "text": "Создание страницы блога и мини-виджета со статьями"
+          "text": "Создание и реализация функционала детальной страницы продукта"
         },
         {
-          "text": "Разработка страницы корзины с функционалом для работы с товарами и промокодами"
+          "text": "Создание и реализация функционала страницы избранного"
+        },
+        {
+          "text": "Создание страницы сотрудничества"
+        },
+        {
+          "text": "Создание страницы о нас"
+        },
+        {
+          "text": "Проектирование основого дизайна сайта"
+        },
+        {
+          "text": "Внедрение в проект архитектуры FSD"
+        },
+        {
+          "text": "Внедрение в проект архитектурного паттерна MVC"
+        },
+        {
+          "text": "Участие в рефакторинге кода"
+        },
+        {
+          "text": "Участие в написании тестов"
         }
       ]
     },
@@ -533,6 +575,12 @@
         },
         {
           "text": "Developing the cart page with functionality for interacting with products and promo codes"
+        },
+        {
+          "text": "Creating the application footer"
+        },
+        {
+          "text": "Participation in test writing"
         }
       ],
       "ru": [
@@ -553,6 +601,12 @@
         },
         {
           "text": "Разработка страницы корзины с функционалом для работы с товарами и промокодами"
+        },
+        {
+          "text": "Создание футера приложения"
+        },
+        {
+          "text": "Участие в написании тестов"
         }
       ]
     },
