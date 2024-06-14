@@ -55,42 +55,100 @@
     "checklist": {
       "en": [
         {
-          "text": "Creating and setting up the project on the commercetools platform"
+          "text": "SCRUM master"
         },
         {
-          "text": "Creating the database and importing products and categories"
+          "text": "Setting up the repository and configurations for the project"
         },
         {
-          "text": "Implementing API interactions with the database"
+          "text": "Distribution of responsibilities in the team"
         },
         {
-          "text": "Designing banner mockups with promo codes"
+          "text": "Creating backlog"
         },
         {
-          "text": "Creating the blog page and a mini-widget with articles"
+          "text": "Implementation of a complete CI/CD process from the board to the deployment "
         },
         {
-          "text": "Developing the cart page with functionality for interacting with products and promo codes"
+          "text": "Creating a not found page"
+        },
+        {
+          "text": "Implementing user profile and user adresses page and their functionality"
+        },
+        {
+          "text": "Implementing Redux-like state management functionality for the app"
+        },
+
+        {
+          "text": "Implementing language choice for the app"
+        },
+
+        {
+          "text": "Implementing theme choice for the app"
+        },
+
+        {
+          "text": "Writing the documentation for the project"
+        },
+
+        {
+          "text": "Participation in code reviews"
+        },
+
+        {
+          "text": "Doing refactoring"
+        },
+        {
+          "text": "Writing tests"
         }
       ],
       "ru": [
         {
-          "text": "Создание и настройка проекта на платформе commercetools"
+          "text": "SCRUM master"
         },
         {
-          "text": "Создание базы данных и импорт продуктов и категорий"
+          "text": "Настройка репозитория и конфигураций для проекта"
         },
         {
-          "text": "Реализация взаимодействия API с базой данных"
+          "text": "Распределение обязанностей в команде"
         },
         {
-          "text": "Разработка макетов баннеров с промокодами"
+          "text": "Создание бэклога"
         },
         {
-          "text": "Создание страницы блога и мини-виджета со статьями"
+          "text": "Внедрение полного процесса CI/CD от разработки до развертывания"
         },
         {
-          "text": "Разработка страницы корзины с функционалом для работы с товарами и промокодами"
+          "text": "Создание страницы 'Не найдено'"
+        },
+        {
+          "text": "Реализация страницы профиля и адреса пользователя и их функциональность"
+        },
+        {
+          "text": "Реализация Redux-подобной функциональности управления состояниями для приложения"
+        },
+
+        {
+          "text": "Реализация выбора языка в приложении"
+        },
+
+        {
+          "text": "Реализация выбора темы для приложения"
+        },
+
+        {
+          "text": "Написание документации по проекту"
+        },
+
+        {
+          "text": "Участие в обзорах кода"
+        },
+
+        {
+          "text": "Проведение рефакторинга"
+        },
+        {
+          "text": "Написание тестов"
         }
       ]
     },
@@ -194,10 +252,10 @@
     ],
     "shortDescription": {
       "en": {
-        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        "text": "Hi! I'm Meg and I'm obsessed with front-end development. It started off as a hobby I didn't know squat about but soon became the thing I can't imagine a single day without. Though challenging, this course, the final task, and the people here are going to be imbedded in my memory as one of the best experiences I've ever had."
       },
       "ru": {
-        "text": "Какой-то рыбный текст."
+        "text": "Привет! Меня зовут Мэг, и я одержима фронтенд-разработкой. Это началось как хобби, о котором я ничего не знала, но вскоре стало тем, без чего я не могу представить ни дня. Этот курс, финальное задание и люди, которые здесь собрались, останутся в моей памяти как один из лучших опытов в моей жизни."
       }
     }
   },
@@ -239,6 +297,17 @@
           },
           "ru": {
             "text": "Макс не переставал удивлять меня своей ответственностью, скрупулезностью и вниманием к деталям. Он замечал даже самые мелкие недочеты в макете и мастерски создавал как визуальные аспекты, так и внутреннюю логику проекта. Его стремление сделать все универсальным и красивым по-настоящему впечатлило меня. Макс всегда ответственно подходил к тестированию и проверке функциональности новых функций и постоянно стремился улучшить существующий функционал. Будучи истинным последователем принципа DRY, он превращал все, что можно было использовать повторно, в отдельные компоненты. Всегда позитивный, проактивный и полный предложений по улучшению, работать с ним было легко и приятно. У меня остались только положительные впечатления!"
+          }
+        }
+      },
+      {
+        "from": "stardustmeg",
+        "text": {
+          "en": {
+            "text": "You're one of the most incredible people I've ever met! I'm so happy you became not only a teammate we can always rely on but a trusted friend whose support helped me pull through everything that came our way. Your meticulous attention to detail, architecture and UI/UX concerns, unbelievable efficiency, and exemplary soft skills will make the most beneficial addition to any future team."
+          },
+          "ru": {
+            "text": "Ты один из самых невероятных людей, которых я когда-либо встречал! Я так рад, что ты стал не только членом команды, на которого мы всегда можем положиться, но и надежным другом, чья поддержка помогла мне пройти через все, что выпало на нашу долю. Твое скрупулезное внимание к деталям, архитектуре и UI/UX, невероятная работоспособность и образцовые soft skills станут самым полезным дополнением к любой будущей команде."
           }
         }
       }
@@ -431,7 +500,7 @@
         "text": "Hello, world! My name is Max, 21 years old, I'm from Moscow in Russia. I like huskies and pineapple pizza, but most of all I like to colour buttons, which is partly why I got into frontend. The course was very useful and exciting, and the final team challenge was so addictive and interesting, just because of the composition of the team and under the careful guidance of our wonderful mentor. At the end of the course I can confidently say that my love for development has only increased manifold."
       },
       "ru": {
-        "text": "Hello, world! Меня зовут Макс, 21 год, я из России из Москвы. Я люблю хаски и пиццу с ананасами, но больше всего мне нравится красить кнопочки, отчасти поэтому меня и занесло во фронтенд. Проходить данный курс было очень полезно и увлекательно, а финальный командный таск оказался настолько затягивающим и интересным, именно из-за состава команды и под чутким руководством нашего прекрасного ментора. По окончании курса могу с уверенностью сказать, что любовь к разработке только многократно увеличилась."
+        "text": "Hello, world! Меня зовут Макс, 21 год, я из России, г. Москва. Я люблю хаски и пиццу с ананасами, но больше всего мне нравится красить кнопочки, отчасти поэтому меня и занесло во фронтенд. Проходить данный курс было очень полезно и увлекательно, а финальный командный таск оказался настолько затягивающим и интересным, именно из-за состава команды и под чутким руководством нашего прекрасного ментора. По окончании курса могу с уверенностью сказать, что любовь к разработке только многократно увеличилась."
       }
     }
   },
@@ -554,6 +623,17 @@
             "text": "Божественная повелетильница commercetools, API в целом и всех растений нашего прекрасного магазинчика, не передать словами бесконечную благодарность за огромную проделанную тобой работу. Твоя творческая сила и непреодолимое стремление к совершенству делают твою работу чудесной. Ты - истинный мастер, способный преобразить любую задачу в замечательный результат. Твоя преданность и профессионализм не имеют границ, и каждый проект под твоим руководством становится шедевром. Благодарность за твою невероятную работу и вдохновляющее влияние на команду!"
           }
         }
+      },
+      {
+        "from": "stardustmeg",
+        "text": {
+          "en": {
+            "text": "I'm so glad you joined our team! Your amazing skills and willingness to put so much effort for the best result are absolutely impressive. It was a real pleasure to know that there was nothing impossible for you and you can always come up with a top-notch solution for the most challenging things. Any team you're going to be a part of will greatly benefit from your contributions."
+          },
+          "ru": {
+            "text": "Я так рада, что ты присоединился к нашей команде! Твои потрясающие навыки и готовность приложить столько усилий для достижения наилучшего результата просто впечатляют. Мне было очень приятно осознавать, что для тебя нет ничего невозможного и ты всегда можешь найти первоклассное решение для самых сложных задач. Любая команда, в которой вы будете работать, только выиграет от вашего вклада."
+          }
+        }
       }
     ],
     "checklist": {
@@ -615,7 +695,7 @@
         "text": "Hi! My name is Yulia. A couple of years ago, I moved from Belarus to Krakow. Before that, I worked as a 1C programmer, helping accountants and financiers solve puzzles. Over time, I got tired of creating repetitive reports and decided to dive into the world of frontend development. I absolutely love this course and am grateful to the people behind it."
       },
       "ru": {
-        "text": "Привет! Меня зовут Юля. Пару лет назад я переехала из Беларуси в Краков. До этого я работала программистом в 1С, помогая бухгалтерам и финансистам решать головоломки. Со временем мне надоело создавать повторяющиеся отчеты, и я решила погрузиться в мир фронтенд-разработки. Я очень люблю этот курс и благодарен людям, которые за ним стоят."
+        "text": "Привет! Меня зовут Юля. Пару лет назад я переехала из Беларуси в Краков. До этого я работала программистом в 1С, помогая бухгалтерам и финансистам решать головоломки. Со временем мне надоело создавать повторяющиеся отчеты, и я решила погрузиться в мир фронтенд-разработки. Я очень люблю этот курс и благодарна людям, которые за ним стоят."
       }
     }
   }
