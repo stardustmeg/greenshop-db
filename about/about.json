@@ -30,17 +30,6 @@
     },
     "feedback": [
       {
-        "from": "yulikK",
-        "text": {
-          "en": {
-            "text": "Meg is our incredible team lead! I was impressed by how wonderfully she organized our work, set up the environment, and implemented CI/CD automation processes, allowing us to enjoy the streamlined processes from the very first PR. Meg surrounded us with care and gently guided the project. Our team had an atmosphere of cooperation and respect, and every member's opinion was valued. Initiative and kind-hearted, she approached code reviews and testing new features with great responsibility. Thanks to her contributions, we were able to complete our project ahead of schedule and achieve, in my opinion, excellent results. Meg was always available, as if she had a superpower to be everywhere at once!"
-          },
-          "ru": {
-            "text": "Мег - потрясающий руководитель нашей команды! Я была поражена тем, как замечательно она организовала нашу работу, настроила среду и внедрила процессы автоматизации CI/CD, что позволило нам наслаждаться оптимизированными процессами с самого первого PR. Мег окружила нас заботой и мягко направляла проект. В нашей команде царила атмосфера сотрудничества и уважения, а мнение каждого члена ценилось. Инициативная и добросердечная, она с большой ответственностью подходила к проверке кода и тестированию новых функций. Благодаря её вкладу мы смогли завершить проект раньше срока и добиться, на мой взгляд, отличных результатов. Мег всегда была доступна, как будто у неё есть суперспособность быть везде и сразу!"
-          }
-        }
-      },
-      {
         "from": "kleostro",
         "text": {
           "en": {
@@ -48,6 +37,17 @@
           },
           "ru": {
             "text": "Прекраснейший руководитель, друг, напарник, психолог - все это про тебя. Твоя нереальная способность координировать командую работу поражала день ото дня. Абсолютная внимательность к деталям, мягкость и открытость к обсуждению сделали командную работу с тобой одним большим удовольствием. Ты умеешь находить креативные решения, которые вдохновляют всех вокруг. Твоя преданность и стремление к совершенству делают тебя идеальной коллегой и лидером. Работать с тобой - настоящее удовольствие!"
+          }
+        }
+      },
+      {
+        "from": "yulikK",
+        "text": {
+          "en": {
+            "text": "Meg is our incredible team lead! I was impressed by how wonderfully she organized our work, set up the environment, and implemented CI/CD automation processes, allowing us to enjoy the streamlined processes from the very first PR. Meg surrounded us with care and gently guided the project. Our team had an atmosphere of cooperation and respect, and every member's opinion was valued. Initiative and kind-hearted, she approached code reviews and testing new features with great responsibility. Thanks to her contributions, we were able to complete our project ahead of schedule and achieve, in my opinion, excellent results. Meg was always available, as if she had a superpower to be everywhere at once!"
+          },
+          "ru": {
+            "text": "Мег - потрясающий руководитель нашей команды! Я была поражена тем, как замечательно она организовала нашу работу, настроила среду и внедрила процессы автоматизации CI/CD, что позволило нам наслаждаться оптимизированными процессами с самого первого PR. Мег окружила нас заботой и мягко направляла проект. В нашей команде царила атмосфера сотрудничества и уважения, а мнение каждого члена ценилось. Инициативная и добросердечная, она с большой ответственностью подходила к проверке кода и тестированию новых функций. Благодаря её вкладу мы смогли завершить проект раньше срока и добиться, на мой взгляд, отличных результатов. Мег всегда была доступна, как будто у неё есть суперспособность быть везде и сразу!"
           }
         }
       },
@@ -293,17 +293,6 @@
     },
     "feedback": [
       {
-        "from": "yulikK",
-        "text": {
-          "en": {
-            "text": "Max never ceased to amaze me with his responsibility, meticulousness, and attention to detail. He would notice even the smallest imperfections in the layout and masterfully created both the visual aspects and the internal logic of the project. His drive to make everything universal and beautiful truly impressed me. Max always approached testing and verifying the functionality of new features responsibly and constantly strove to improve existing functionality. A true follower of the DRY principle, he turned everything that could be reused into separate components. Always positive, proactive, and full of suggestions for improvement, working with him was easy and pleasant. I was left with only positive impressions!"
-          },
-          "ru": {
-            "text": "Макс не переставал удивлять меня своей ответственностью, скрупулезностью и вниманием к деталям. Он замечал даже самые мелкие недочеты в макете и мастерски создавал как визуальные аспекты, так и внутреннюю логику проекта. Его стремление сделать все универсальным и красивым по-настоящему впечатлило меня. Макс всегда ответственно подходил к тестированию и проверке функциональности новых функций и постоянно стремился улучшить существующий функционал. Будучи истинным последователем принципа DRY, он превращал все, что можно было использовать повторно, в отдельные компоненты. Всегда позитивный, проактивный и полный предложений по улучшению, работать с ним было легко и приятно. У меня остались только положительные впечатления!"
-          }
-        }
-      },
-      {
         "from": "stardustmeg",
         "text": {
           "en": {
@@ -311,6 +300,17 @@
           },
           "ru": {
             "text": "Ты один из самых невероятных людей, которых мне когда-либо доводилось встречать! Я так рада, что ты стал не только товарищем по команде, на которого всегда можно положиться, но и настоящим партнером и верным другом, чья поддержка стала моей силой и помогла преодолеть все трудности, с которыми мы сталкивались. Я постоянно восхищалась тем, сколько времени ты уделял проекту. Также наблюдать, как ты пишешь свой код, было одним из самых больших удовольствий. Твое внимание к деталям, архитектуре и вопросам UI/UX, невероятная эффективность и примерные мягкие навыки сделают тебя самым выгодным приобретением для любой будущей команды."
+          }
+        }
+      },
+      {
+        "from": "yulikK",
+        "text": {
+          "en": {
+            "text": "Max never ceased to amaze me with his responsibility, meticulousness, and attention to detail. He would notice even the smallest imperfections in the layout and masterfully created both the visual aspects and the internal logic of the project. His drive to make everything universal and beautiful truly impressed me. Max always approached testing and verifying the functionality of new features responsibly and constantly strove to improve existing functionality. A true follower of the DRY principle, he turned everything that could be reused into separate components. Always positive, proactive, and full of suggestions for improvement, working with him was easy and pleasant. I was left with only positive impressions!"
+          },
+          "ru": {
+            "text": "Макс не переставал удивлять меня своей ответственностью, скрупулезностью и вниманием к деталям. Он замечал даже самые мелкие недочеты в макете и мастерски создавал как визуальные аспекты, так и внутреннюю логику проекта. Его стремление сделать все универсальным и красивым по-настоящему впечатлило меня. Макс всегда ответственно подходил к тестированию и проверке функциональности новых функций и постоянно стремился улучшить существующий функционал. Будучи истинным последователем принципа DRY, он превращал все, что можно было использовать повторно, в отдельные компоненты. Всегда позитивный, проактивный и полный предложений по улучшению, работать с ним было легко и приятно. У меня остались только положительные впечатления!"
           }
         }
       },
